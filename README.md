@@ -1,3 +1,6 @@
+modifications: added a python script that converts the dataset to yolov5 format. Usage: Download the dataset (train and/or test). Run the Yolov5-ifier.py script anywhere and provide it the images folder of the downloaded dataset as an argument. It will do the rest for you, creating a 'images' and 'labels' folder next to the provided dataset images one and populate both of them.
+
+
 # Real World Object Detection Dataset For Quadcopter Unmanned Aerial Vehicle (UAV)
 Effort shown within the following repository and subsequent processing has been performed as a part of ongoing PhD on Engineering Applications of Artificial Intelligence over Warsaw University of Technology, Faculty of Power and Aeronautical Engineering, Warsaw, Poland.
 
